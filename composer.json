@@ -1,0 +1,12 @@
+{
+    "name": "acburdine/expressphp",
+    "description": "A PHP router that seeks to provide a similar API to that of  Express.JS",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Austin Burdine",
+            "email": "acburdine@gmail.com"
+        }
+    ],
+    "require": {}
+}
